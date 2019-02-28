@@ -1,19 +1,19 @@
 # Program Pegangan Dasar
 
-Tentang
--------
+:one: Tentang
+-------------
 * Nama Aplikasi : Program Pegangan Dasar
 * Mata Kuliah : Dasar Algoritma dan Pemrograman (DAP)
 * Bahasa Pemrograman : PASCAL
 * Platform : Desktop
 * Kontribusi Saya : Menyeluruh
 
-Deskripsi
----------
+:two: Deskripsi
+---------------
 Aplikasi ini bertujuan untuk pengenalan perintah dasar insert, view, sort, search, update, delete.
 
-Fitur
------
+:three: Fitur
+-------------
 Aplikasi meliputi penggunaan :
 - [x] Label & Constant
 - [x] Array & Tipe data bentukan
@@ -24,6 +24,6 @@ Aplikasi meliputi penggunaan :
 - [x] Proses Update (Mengedit Nilai)
 - [x] Proses Delete (Menghapus Nilai)
 
-Screenshoot
------------
-![](SS.jpg)
+:four: Screenshoot
+------------------
+<img src="SS.PNG" width="500">
